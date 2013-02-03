@@ -23,3 +23,9 @@
           | | / / \ _____\____  \\_________/
           |_|/_/_/_/    / /  /  /
                         -/__/__/
+
+
+# Hexley DarwinOS Mascot Copyright 2000 by Jon Hooper. 
+# All Rights Reserved. http://www.hexley.com/
+
+# Ascii art by Leonard Witzel. 
